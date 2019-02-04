@@ -17,7 +17,7 @@ Week 8 | coming soon™
 
 ## Tasks week 2
 
-Week|Link
+Date|Link
 ------------ | ------------- 
 05/02/2019 - Day 1 | [Exercises - Network stack](https://docs.google.com/document/d/1_JV7ePLSpxGAd9KqauESTYbdR13LuafNKiFN0RX0v8w/edit?usp=sharing)
 
