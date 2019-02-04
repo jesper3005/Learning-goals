@@ -19,5 +19,5 @@ Week 8 | coming soon™
 
 Week|Link
 ------------ | ------------- 
-05/02/2019 Day1 | [Exercises - Network stack](https://docs.google.com/document/d/1_JV7ePLSpxGAd9KqauESTYbdR13LuafNKiFN0RX0v8w/edit?usp=sharing)
+05/02/2019 - Day 1 | [Exercises - Network stack](https://docs.google.com/document/d/1_JV7ePLSpxGAd9KqauESTYbdR13LuafNKiFN0RX0v8w/edit?usp=sharing)
 
