@@ -23,3 +23,10 @@ Date|Link
 06/02/2019 - Day 2 | [Exercises - HTTP]()
 07/02/2019 - Day 3 | [Quick Setup on Digital Ocean]()
 
+## Tasks week 3
+
+Date|Link
+------------ | ------------- 
+11/02/2019 - Day 1 | []()
+12/02/2019 - Day 2 | []()
+13/02/2019 - Day 3 | []()
