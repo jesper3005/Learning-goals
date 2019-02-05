@@ -21,5 +21,5 @@ Date|Link
 ------------ | ------------- 
 05/02/2019 - Day 1 | [Exercises - Network stack](https://docs.google.com/document/d/1_JV7ePLSpxGAd9KqauESTYbdR13LuafNKiFN0RX0v8w/edit?usp=sharing)
 06/02/2019 - Day 2 | [Exercises - HTTP]()
-07/02/2019 - Day 3 | []()
+07/02/2019 - Day 3 | [Quick Setup on Digital Ocean]()
 
