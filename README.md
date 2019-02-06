@@ -2,6 +2,8 @@
 
 This repository is holds what goals and subjects we have learned this semester.
 
+Below that you will find all task that has been given to us during the semester. Some of the links are closer to guides than tasks with answers.
+
 ## Links with question and answers
 
 Week | Link
