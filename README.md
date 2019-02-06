@@ -17,7 +17,9 @@ Week 6 | coming soon™
 Week 7 | coming soon™
 Week 8 | coming soon™
 
-## Tasks week 2 - Maven, Test and Network
+# Modul 1 - Maven, Test and Network
+
+## Tasks week 2
 
 Date|Link
 ------------ | ------------- 
@@ -25,10 +27,12 @@ Date|Link
 06/02/2019 - Day 2 | [Exercises - HTTP](https://docs.google.com/document/d/1SwxIZBLPdN6pKXjm8CmRxFbxxzjaeRbbcIedUwlzk_I/edit?usp=sharing)
 07/02/2019 - Day 3 | [Quick Setup on Digital Ocean](https://docs.google.com/document/d/1Wr3QyglcoWSRObnTBe-EvRg1eqVZaVP9JcTLyOHCqqw/edit?usp=sharing)
 
-## Tasks week 3 - Maven, Test and Network
+## Tasks week 3
 
 Date|Link
 ------------ | ------------- 
 11/02/2019 - Day 1 | []()
 12/02/2019 - Day 2 | []()
 13/02/2019 - Day 3 | []()
+
+# Modul 2
