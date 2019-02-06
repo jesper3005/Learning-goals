@@ -21,7 +21,7 @@ Date|Link
 ------------ | ------------- 
 05/02/2019 - Day 1 | [Exercises - Network stack](https://docs.google.com/document/d/1_JV7ePLSpxGAd9KqauESTYbdR13LuafNKiFN0RX0v8w/edit?usp=sharing)
 06/02/2019 - Day 2 | [Exercises - HTTP](https://docs.google.com/document/d/1SwxIZBLPdN6pKXjm8CmRxFbxxzjaeRbbcIedUwlzk_I/edit?usp=sharing)
-07/02/2019 - Day 3 | [Quick Setup on Digital Ocean]()
+07/02/2019 - Day 3 | [Quick Setup on Digital Ocean](https://docs.google.com/document/d/1Wr3QyglcoWSRObnTBe-EvRg1eqVZaVP9JcTLyOHCqqw/edit?usp=sharing)
 
 ## Tasks week 3
 
