@@ -31,8 +31,8 @@ Date|Link
 
 Date|Link
 ------------ | ------------- 
-11/02/2019 - Day 1 | []()
-12/02/2019 - Day 2 | []()
+11/02/2019 - Day 1 | [The JS Array](https://docs.google.com/document/d/14yDqpX_GEHvCkXMBM7KOD8mjEM2eLSj8WJqsfdhxSso/edit#)
+11/02/2019 - Day 1 | [JavaScript Ex-1](https://docs.google.com/document/d/1cd4-VI5rSGv5NL6YHk_JGjPJckOdnYeBqFL1J4Y9EtE/edit#)
 13/02/2019 - Day 3 | []()
 
 # Modul 2
