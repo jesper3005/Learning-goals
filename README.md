@@ -11,7 +11,7 @@ Week | Link
 Week 1 | [Learning goals week 1](https://docs.google.com/document/d/1etT92-0bXD3uoesTnwRVypJMhBDCgJrX_K-9hf4_ebY/edit#)
 Week 2 | [Learning goals week 2](https://docs.google.com/document/d/1L5ckn0d99AVFmbYcA9ZwujZXHER7-56Sr1pDSqKbaf4/edit?usp=sharing)
 Week 3 | coming soon™
-Week 4 | coming soon™
+Week 4 | [Learning goals week 4](https://docs.google.com/document/d/1SBXzlZFECnCUn2n4DfPA0OI4csK_3-rLQfjjAZl4ExA/edit?usp=sharing)
 Week 5 | coming soon™
 Week 6 | coming soon™
 Week 7 | coming soon™
@@ -42,7 +42,7 @@ Date|Link
 ### ORM with JPA
 
 ------------ | -------------
-19/02/2019 - Day 1 Introduction to ORM | [JPA Entity Mappings]()
+19/02/2019 - Day 1 | [JPA Entity Mappings]()
 20/02/2019 - Day 2 | []()
 21/02/2019 - Day 3 | []()
 
