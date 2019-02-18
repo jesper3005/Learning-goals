@@ -41,7 +41,7 @@ Date|Link
 
 ### ORM with JPA
 
-19/02/2019 - Day 1 Introduction to ORM | [JPA Entity Mappings]()
+19/02/2019 - Day 1 | [JPA Entity Mappings]()
 20/02/2019 - Day 2 | []()
 21/02/2019 - Day 3 | []()
 
