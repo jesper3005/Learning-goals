@@ -33,6 +33,15 @@ Date|Link
 ------------ | ------------- 
 11/02/2019 - Day 1 | [The JS Array](https://docs.google.com/document/d/14yDqpX_GEHvCkXMBM7KOD8mjEM2eLSj8WJqsfdhxSso/edit#)
 11/02/2019 - Day 1 | [JavaScript Ex-1](https://docs.google.com/document/d/1cd4-VI5rSGv5NL6YHk_JGjPJckOdnYeBqFL1J4Y9EtE/edit#)
-13/02/2019 - Day 3 | []()
+12/02/2019 - Day 2 | [CA 1](https://docs.google.com/document/d/13TM3p2zq4u3cieJtIYQTnQaN7gYspyk9EIYxX0D_JgA/edit)
 
-# Modul 2
+# Modul 2 Webstack
+
+## Task week 4
+
+### ORM with JPA
+
+19/02/2019 - Day 1 Introduction to ORM | []()
+20/02/2019 - Day 2 | []()
+21/02/2019 - Day 3 | []()
+
